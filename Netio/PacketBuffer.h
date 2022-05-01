@@ -1,11 +1,10 @@
 #pragma once
 
 //
-//  Buffer.h
 //  Netio
 //
 //  Created by Sadullah Nader on 12/26/11.
-//  Copyright (c) 2011. All rights reserved.
+//  Copyright (c). All rights reserved.
 //
 
 #include "Transport.h"

@@ -1,12 +1,12 @@
 #pragma once
 
 //
-//  IpAddress.h
 //  Netio
 //
 //  Created by Sadullah Nader on 11/19/11.
-//  Copyright 2011. All rights reserved.
+//  Copyright (c). All rights reserved.
 //
+
 #include <string>
 #include "Transport.h"
 

@@ -1,11 +1,11 @@
 #pragma once
 
-/*
- * File:   Transport.h
- * Author: snader12
- *
- * Created on January 1, 2012, 11:48 PM
- */
+//
+//  Netio
+//
+//  Created by Sadullah Nader on 8/15/14.
+//  Copyright (c). All rights reserved.
+//
 
 // Utility
 #include <cstring>

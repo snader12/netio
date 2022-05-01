@@ -1,9 +1,8 @@
 //
-//  UdpSocket.cpp
 //  Netio
 //
-//  Created by Sadullah Nader on 11/18/11.
-//  Copyright 2011. All rights reserved.
+//  Created by Sadullah Nader on 8/15/14.
+//  Copyright (c). All rights reserved.
 //
 
 #include "UdpSocket.h"
